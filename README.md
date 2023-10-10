@@ -1,5 +1,3 @@
-<div align="center">
-
   <!-- 动态打字机 -->
 
   <div align="center">
@@ -12,6 +10,6 @@
 
  <!-- 贪吃蛇热力图 -->
 
-```html
+  <div align="center">
 ![](https://raw.githubusercontent.com/element-xuan/element-xuan/main/assets/github-contribution-grid-snake.svg)
-```
+  </div>
