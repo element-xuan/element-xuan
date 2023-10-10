@@ -21,76 +21,13 @@
     <a href="https://www.youtube.com/@sun0225SUN"><img src="https://img.shields.io/badge/YouTube-油管-c32136" /></a>&emsp;
     <a href="https://box.sunguoqi.com/weixin_mp"><img src="https://img.shields.io/badge/WeChat-微信-07c160" /></a>&emsp;
     <a href="https://space.bilibili.com/448488855/"><img src="https://img.shields.io/badge/Bilibili-B站-ff69b4" /></a>&emsp;
-    <a href="https://blog.csdn.net/weixin_50915462/"><img src="https://img.shields.io/badge/CSDN-论坛-c32136" /></a>&emsp;
-    <a href="https://www.zhihu.com/people/sunguoqi/"><img src="https://img.shields.io/badge/Zhihu-知乎-blue" /></a>&emsp;-->
+
 
 </div>
 
 <!-- wakatime 统计 -->
-### 📊 WakaTime
-
-<picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api/wakatime?username=sun0225SUN&layout=compact&text_color=f0f6fc&bg_color=00000000&hide_border=true&hide_title=true"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api/wakatime?username=sun0225SUN&layout=compact&text_color=1f2328&bg_color=00000000&hide_border=true&hide_title=true"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=sun0225SUN&layout=compact&text_color=f0f6fc&bg_color=00000000&hide_border=true&hide_title=true" />
-</picture>
-
-</td></tr>
-
-<tr><td>
-
-<!--START_SECTION:waka-->
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                364 commits         █████░░░░░░░░░░░░░░░░░░░░   21.62 % 
-🌆 Daytime                520 commits         ████████░░░░░░░░░░░░░░░░░   30.88 % 
-🌃 Evening                537 commits         ████████░░░░░░░░░░░░░░░░░   31.89 % 
-🌙 Night                  263 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.62 % 
-```
-📅 **I'm Most Productive on Friday** 
-
-```text
-Monday                   223 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.24 % 
-Tuesday                  195 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.58 % 
-Wednesday                216 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.83 % 
-Thursday                 202 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.00 % 
-Friday                   457 commits         ███████░░░░░░░░░░░░░░░░░░   27.14 % 
-Saturday                 159 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.44 % 
-Sunday                   232 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.78 % 
-```
 
 
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Shanghai
-
-💬 Programming Languages: 
-Vue.js                   12 hrs 30 mins      ███████████████████████░░   92.66 % 
-JavaScript               44 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.53 % 
-JSON                     14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.79 % 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
-
-🔥 Editors: 
-VS Code                  13 hrs 30 mins      █████████████████████████   100.00 % 
-
-💻 Operating System: 
-Windows                  13 hrs 30 mins      █████████████████████████   100.00 % 
-```
-
-
- Last Updated on 10/10/2023 01:12:30 UTC
-<!--END_SECTION:waka-->
-
-</td></tr>
-</table>
 
 <!-- ########################################## 分割 ########################################## -->
 <img width="200%" src="https://cdn.jsdelivr.net/gh/element-xuan/element-xuan/assets/images/hr.gif" />
