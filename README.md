@@ -9,3 +9,4 @@
 
 
  <!-- 贪吃蛇热力图 -->
+![](https://raw.githubusercontent.com/element-xuan/element-xuan/main/assets/github-contribution-grid-snake.svg)
