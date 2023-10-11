@@ -11,6 +11,6 @@
   </div>
 
   <div align="center">
-      <img src="/RainbowBar.gif"/>
+      <img src="https://github.com/element-xuan/element-xuan/blob/main/Img/RainbowBar.gif"alt="分隔动画"/>
   </div>
 
