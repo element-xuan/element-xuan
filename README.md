@@ -9,4 +9,5 @@
     <a href="https://e-yuansu.com/wp-content/uploads/2023/09/22866b01fd205519.jpg"><img src="https://img.shields.io/badge/WeChat-微信-07c160" /></a>&emsp;
     <a href="https://space.bilibili.com/477554422"><img src="https://img.shields.io/badge/Bilibili-B站-ff69b4" /></a>&emsp;
   </div>
-<img width="200%" src="https://cdn.jsdelivr.net/gh/element-xuan/element-xuan/assets/images/hr.gif" />
+
+![分隔符](Img/RainbowBar.gif)
