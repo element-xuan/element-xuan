@@ -19,8 +19,8 @@
 <div align="center" >
 
 ```mermaid
-mindmap
-  root((Element))
+emindmap
+  root((element-xuan))
     常用
       .Net Desktop
       PHP
