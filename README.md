@@ -14,3 +14,11 @@
       <img src="https://github.com/element-xuan/element-xuan/blob/main/Img/RainbowBar.gif"alt="分隔动画"/>
   </div>
 
+<div align="right">
+https://github-stats.ubrong.com/api?username=element-xuan&show_icons=true&theme=tokyonight
+
+https://github-stats.ubrong.com/api/top-langs/?username=element-xuan&layout=compact&theme=tokyonight
+<--! -->
+https://stats.justsong.cn/api/bilibili/?id=1643462710&theme=dark
+</div>
+![Visitor Count](https://profile-counter.glitch.me/{element-xuan}/count.svg)
