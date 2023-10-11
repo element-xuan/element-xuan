@@ -10,4 +10,7 @@
     <a href="https://space.bilibili.com/477554422"><img src="https://img.shields.io/badge/Bilibili-B站-ff69b4" /></a>&emsp;
   </div>
 
-![分隔符](Img/RainbowBar.gif)
+  <div align="center">
+      <img src="/RainbowBar.gif"/>
+  </div>
+
